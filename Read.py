@@ -8,8 +8,8 @@ import json
 import sys  
 sys.path.append('/home/pi/rpi/code/Package')  
 
-deviceId = "DCj00ERw"  
-deviceKey = "ESFBWzz2dhWom2kg"
+deviceId = "XXXXXXXX"  
+deviceKey = "XXXXXXXXXXXXXX"
 
 #**************************************************** 
 # Set MediaTek Cloud Sandbox (MCS) Connection                                                   

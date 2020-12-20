@@ -24,8 +24,8 @@ GPIO.setup(BUZZER_PIN,GPIO.OUT)
 GPIO.setup(BUTTON_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 ### buzzer setting ###
 
-deviceId = "DCj00ERw"
-deviceKey = "ESFBWzz2dhWom2kg"
+deviceId = "XXXXXXXX"
+deviceKey = "XXXXXXXXXXXXXX"
 
 def get_to_mcs():
     host = "http://api.mediatek.com"
